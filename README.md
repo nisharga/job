@@ -1,4 +1,4 @@
-<h4>Cover-Letter:</h4> 
+<h2>Cover-Letter:</h2> 
 
 <b>Dear Hiring Manager,</b>
 
@@ -12,3 +12,7 @@ Furthermore, I also work as a Freelance Web Developer for various clients which 
 <b>Sincerely </br>
 Nisharga Kabir
 </b>
+
+# Regected Message
+Greetings, hope you are well. I have applied for the Full Stack Developer position at your company. I would like to have feedback, regarding my application. Your valuable feedback will mean a lot in my career.
+Waiting for your response. Thank you
