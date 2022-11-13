@@ -1,4 +1,4 @@
-Cover-Letter: 
+<h4>Cover-Letter:</h4> 
 
 <b>Dear Hiring Manager,</b>
 
@@ -9,6 +9,6 @@ Furthermore, I also work as a Freelance Web Developer for various clients which 
 
 <b>Thank you for your consideration, I look forward to learning more about the web developer position.</b>
 
-<b>Sincerely
+<b>Sincerely </br>
 Nisharga Kabir
 </b>
