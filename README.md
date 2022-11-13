@@ -28,3 +28,6 @@ Thanks & Regards
 # After Submiting a google File
 <code><b>Hi, thank you much for giving me this opportunity. I am interested in this internship. I have completed all the questions in the Google Form.
 Please let me know regarding next steps.</b></code>
+
+# Accepting Request: 
+<code><b>Thank you for accepting my application. I would like to have a 15 minute meeting with you where I can discuss my resume with you. Thank you again.</b></code>
