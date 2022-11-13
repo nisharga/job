@@ -17,6 +17,14 @@ Nisharga Kabir
 <code><b>Greetings, hope you are well. I have applied for the Full Stack Developer position at your company. I would like to have feedback, regarding my application. Your valuable feedback will mean a lot in my career.
 Waiting for your response. Thank you </b></code>
 
+<code><b>
+Greetings 
+Thank you for your response. If you could share your feedback regarding my application procedure, it could help me greatly in my career.
+Also if there are any job openings in the future, suitable for me, kindly let me know. 
+Thank you for your time and cooperation. 
+Thanks & Regards
+</b></code>
+
 # After Submiting a google File
 <code><b>Hi, thank you much for giving me this opportunity. I am interested in this internship. I have completed all the questions in the Google Form.
 Please let me know regarding next steps.</b></code>
