@@ -14,5 +14,5 @@ Nisharga Kabir
 </b>
 
 # Regected Message
-Greetings, hope you are well. I have applied for the Full Stack Developer position at your company. I would like to have feedback, regarding my application. Your valuable feedback will mean a lot in my career.
-Waiting for your response. Thank you
+<code><b>Greetings, hope you are well. I have applied for the Full Stack Developer position at your company. I would like to have feedback, regarding my application. Your valuable feedback will mean a lot in my career.
+Waiting for your response. Thank you </b></code>
