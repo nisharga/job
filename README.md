@@ -31,3 +31,10 @@ Please let me know regarding next steps.</b></code>
 
 # Accepting Request: 
 <code><b>Thank you for accepting my application. I would like to have a 15 minute meeting with you where I can discuss my resume with you. Thank you again.</b></code>
+
+# When you will join 
+<code><b>After learning more about this role, I am confident it would be a great fit for my experience and skill set. I can be available to start as soon as the beginning of the next work week</b></code>
+
+# Strengths and Weaknesses
+<code><b> Talk about my strengths – I can say that I’m a quick learner, team player, adaptable and creative person
+Talk about my weaknesses - I’m never satisfied with my work, I always feel that it could be done better.</b></code>
