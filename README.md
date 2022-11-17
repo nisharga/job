@@ -26,7 +26,7 @@ Thanks & Regards
 </b></code>
 
 # After Submiting a google File
-<code><b>Hi, thank you much for giving me this opportunity. I am interested in this internship. I have completed all the questions in the Google Form.
+<code><b>Hi, thank you for giving me this opportunity. I am interested in this internship. I have completed all the questions in the Google Form.
 Please let me know regarding next steps.</b></code>
 
 # Accepting Request: 
